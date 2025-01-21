@@ -10,7 +10,7 @@ This project was submission for Swift Student Challenge 2024.
 
 ## Technologies
 
-Project is build using:
+Project is built using:
 - Swift
 - SwiftUI
 - AudioKit
