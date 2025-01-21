@@ -6,7 +6,7 @@
 
 This project was inspired by working with children aged 7-12 on weekends, helping them learn to program and visualize complex connections and relationships.
 
-This project was submission for Swift Student Challenge 2024.
+This project was a submission for Swift Student Challenge 2024.
 
 ## Technologies
 
@@ -15,3 +15,6 @@ Project is built using:
 - SwiftUI
 - AudioKit
 - AVFoundation
+
+
+![Tinkertone Composition](https://github.com/user-attachments/assets/59dee9e7-990d-4bbd-a861-676f3ff5a196)
