@@ -1,0 +1,3 @@
+Tinkertone uses AudioKit third-party library for audio synthesis, processing, and analysis. See LICENSE in AudioKit folder for more information.
+
+Tinkertone uses FA-1 and F5.6 fonts by Sora Sagano. See OFL.txt for more information about font license.
